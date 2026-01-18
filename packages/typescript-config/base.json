@@ -5,7 +5,7 @@
     "module": "ESNext",
     "moduleResolution": "bundler",
     "lib": ["ESNext", "DOM", "DOM.Iterable"],
-    
+
     "strict": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
@@ -19,12 +19,10 @@
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
     "resolveJsonModule": true,
-    
+
     "noEmit": true,
     "skipLibCheck": true,
     "declaration": true,
-    "declarationMap": true,
-    "allowJs": true,
-    "checkJs": true
+    "declarationMap": true
   }
 }
