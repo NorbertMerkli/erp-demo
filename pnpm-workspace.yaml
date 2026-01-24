@@ -3,14 +3,20 @@ packages:
   - apps/*
 
 catalog:
-  '@types/node': ^25.0.9
-  '@types/react': ^19.2.8
-  '@types/react-dom': ^19.2.3
-  '@vitejs/plugin-react': ^5.1.2
+  "@internationalized/date": ^3.10.1
+  "@internationalized/number": ^3.6.5
+  "@storybook/react": ^10.1.11
+  "@types/node": ^25.0.9
+  "@types/react": ^19.2.8
+  "@types/react-dom": ^19.2.3
+  "@vitejs/plugin-react": ^5.1.2
   babel-plugin-react-compiler: ^1.0.0
   globals: ^17.0.0
   react: ^19.2.3
+  react-aria: ^3.45.0
+  react-aria-components: ^1.14.0
   react-dom: ^19.2.3
+  react-stately: ^3.43.0
   typescript: ^5.9.3
   vite: ^7.3.1
   vite-plugin-dts: ^4.5.4
